@@ -1,4 +1,4 @@
-# Ecuaciones Diferenciales A - Ecuaciones Diferenciales B — Primer cuatrimestre de 2013
+# Ecuaciones Diferenciales — Primer cuatrimestre de 2013
 
 ## Prácticas
 
